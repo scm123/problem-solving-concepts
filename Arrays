@@ -30,4 +30,20 @@ public int majorityElement(int[] nums) {
     }
 
 
-## Windows Sliding Algo
+## Windows Sliding Algo Problem (Fix and variable)
+Fix
+1. Max and Min in array of size k
+2. first -ve in every window size of K
+3. count occurance of anagram
+4. max of all subarray of size k
+5. max of min for every window size
+
+Variable
+1. largest/smallest array with sum K
+2. largest sub array of K distinct characters
+3. length of largest substring with no repeating characters
+4. pick toy
+5. minimum window substring
+
+
+
