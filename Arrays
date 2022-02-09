@@ -1,1 +1,6 @@
 
+## Max contiguous Array
+
+logic :- just check sum at particular index and get the max of sum or current index ... eg. sum=Math.max(sum+A[index],A[index])
+         now compare the global pointer with current sum.  global_max=Math.max(global_max,sum)
+         
