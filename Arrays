@@ -28,3 +28,6 @@ public int majorityElement(int[] nums) {
       }  
       return majority;  
     }
+
+
+## Windows Sliding Algo
