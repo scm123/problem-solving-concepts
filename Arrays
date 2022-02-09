@@ -4,3 +4,7 @@
 logic :- just check sum at particular index and get the max of sum or current index ... eg. sum=Math.max(sum+A[index],A[index])
          now compare the global pointer with current sum.  global_max=Math.max(global_max,sum)
          
+## Every element frequency is 2 only one element occures once ,find that number
+  Xor of same number is 0 and xor of any number with zero is same number. java xor ^
+  
+## Find the number that's having the excat n/2 occurance in array  
